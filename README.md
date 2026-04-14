@@ -1,10 +1,10 @@
 <!-- Profile Picture Banner -->
 <p align="center">
-  <img src="https://github.com/CMI-Dropout.png" width="160" style="border-radius:50%;" alt="Profile picture">
+  <img src="https://github.com/Q-Fin.png" width="160" style="border-radius:50%;" alt="Profile picture">
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=currentColor&center=true&vCenter=true&width=500&lines=CMI-Dropout" alt="Typing banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=currentColor&center=true&vCenter=true&width=500&lines=FinEn" alt="Typing banner"/>
 </p>
-<h1 align="center">👋 Hi, I’m <strong>@CMI-Dropout</strong></h1>
+<h1 align="center">👋 Hi, I’m <strong>@Q-Fin</strong></h1>
 <p align="center">Quantitative Financial Engineer • Artificial Intelligence Enthusiast • Python & Graph Analytics Explorer</p>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3568A3?style=flat-square&logo=python&logoColor=white" />
@@ -21,7 +21,7 @@
 ### 📈 Contributions
 
 <p align="center">
-  <img alt="Contributions chart" src="https://ghchart.rshah.org/CMI-Dropout" />
+  <img alt="Contributions chart" src="https://ghchart.rshah.org/Q-Fin" />
 </p>
 
 ### 🔭 Current Projects & Interests
@@ -29,6 +29,8 @@
 - **Current Projects (Private Repositories)**
   - Quantitative Finance Dashboard and Backtesting Engine for Portfolio Optimisation, Risk Analytics (VaR/CVaR, GARCH) and Systematic Trading Strategies.
   - AI-powered Geopolitical Analyst and Real-Time Reporter for International Sectorial News.
+  - Polymarket Latency Arbitrage Bot
+  - Institutional-Grade Research to Signal to Execution to Risk Operating System for Liquid Markets
 
 - **Interests**
   - Artificial Intelligence Agents
